@@ -30,7 +30,8 @@ I'm open to collaboration proposals, interviews, and generally to people who do 
 https://www.amazon.com/Vibe-Coding-Build-Without-Thinking-ebook/dp/B0DWHKDHS9/
 
 
-## I made a Walt Whitman EP (Whitman's poems as shoegaze music):
+## I made a Walt Whitman EP (Whitman's poems as shoegaze music)
+Btw, I'm on Bandcamp: https://swetlana-ai.bandcamp.com
 [<img src="https://github.com/user-attachments/assets/4d3300a1-8635-4c23-99ea-5bd008db3f52" width="600">](https://youtu.be/G-9fRyaUNrc)
 
 ## Other Platforms
