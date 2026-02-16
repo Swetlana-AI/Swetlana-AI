@@ -12,7 +12,7 @@ I'm open to collaboration proposals, interviews, and generally to people who do 
 
 Easiest way to reach me is via X/Twitter: [@Swetlanaai](https://x.com/Swetlanaai)
 
-# What LLMs Are Saying About Me:
+## What LLMs Are Saying About Me:
 
 “Fantastic and very practical” – Gemini
 “Digital Renaissance Woman” – ChatGPT
