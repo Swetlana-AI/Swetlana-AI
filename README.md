@@ -10,7 +10,7 @@ I'm definitely not a developer in the classical sense. But I'm not exclusively a
 
 I'm open to collaboration proposals, interviews, and generally to people who do something (reach out!).
 
-Easiest way to reach me: [@Swetlanaai](https://x.com/Swetlanaai)
+Easiest way to reach me is via X/Twitter: [@Swetlanaai](https://x.com/Swetlanaai)
 
 # Where I'm Active:
 
