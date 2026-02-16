@@ -2,9 +2,11 @@
 
 I do stuff with AI (mostly of creative/experimental nature). I'd describe myself as:
 
-- 1/3 humanities (philosophy & writing)
+- 1/3 humanities (philosophy, big picture, writing)
 - 1/3 art (videos, visuals, experiments)
 - 1/3 tech (tools, scripts, systems)
+
+I'm definitely not a developer in the classical sense. But I'm not exclusively an artist either.
 
 I'm open to collaboration proposals, interviews, and generally to people who do something (reach out!).
 
