@@ -11,7 +11,13 @@ I do stuff with AI (mostly of creative/experimental nature). I'd describe myself
 ## Youtube
 - Main channel: [@swetlanaAI](https://www.youtube.com/@swetlanaAI) - Features AI-created content including music covers and experimental videos
 - Podcast channel: [Swetlana AI Podcast](https://www.youtube.com/@SwetlanaAI-Podcast)
-- Music channel: [Swetlana AI Music] (https://www.youtube.com/@Swetlana-AI-Music)
+- Music channel: [Swetlana AI Music](https://www.youtube.com/@Swetlana-AI-Music)
+
+<a href="https://youtu.be/G-9fRyaUNrc" target="_blank">
+  <img width="1920" height="1080" alt="walt whitman shoegaze swetlana ai poetry music нейросеть 2" src="https://github.com/user-attachments/assets/4d3300a1-8635-4c23-99ea-5bd008db3f52" />
+</a>
+
+
 
 ## Other Platforms
 
