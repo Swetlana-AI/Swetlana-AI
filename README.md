@@ -1,6 +1,10 @@
 # Hi, I'm Swetlana 👋
 
-I do stuff with AI (mostly of creative/experimental nature). 
+I do stuff with AI (mostly of creative/experimental nature). I'd describe myself as:
+
+- 1/3 humanities (philosophy & writing)
+- 1/3 art (videos, visuals, experiments)
+- 1/3 tech (tools, scripts, systems)
 
 # Where I'm Active:
 
@@ -18,9 +22,7 @@ I do stuff with AI (mostly of creative/experimental nature).
   - Twitter/X: [@Swetlanaai](https://x.com/Swetlanaai)
   - Instagram: [@swetlana_ai](https://www.instagram.com/swetlana_ai/)
   - Threads: [@swetlana_ai](https://www.threads.net/@swetlana_ai)
- 
 
-![Swetlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swetlana-AI&show_icons=true&theme=radical)
 
 
 <!--
