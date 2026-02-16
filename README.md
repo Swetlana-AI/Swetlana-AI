@@ -6,6 +6,8 @@ I do stuff with AI (mostly of creative/experimental nature). I'd describe myself
 - 1/3 art (videos, visuals, experiments)
 - 1/3 tech (tools, scripts, systems)
 
+I'm open to collaboration proposals, interviews, and generally to people who do something (reach out!).
+
 # Where I'm Active:
 
 ## Youtube
