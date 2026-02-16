@@ -18,6 +18,10 @@ I do stuff with AI (mostly of creative/experimental nature).
   - Twitter/X: [@Swetlanaai](https://x.com/Swetlanaai)
   - Instagram: [@swetlana_ai](https://www.instagram.com/swetlana_ai/)
   - Threads: [@swetlana_ai](https://www.threads.net/@swetlana_ai)
+ 
+
+![Swetlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swetlana-AI&show_icons=true&theme=radical)
+
 
 <!--
 **Swetlana-AI/Swetlana-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
