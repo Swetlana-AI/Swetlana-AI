@@ -22,6 +22,7 @@ I do stuff with AI (mostly of creative/experimental nature). I'd describe myself
 
 ## I wrote a book about vibecoding:
 <img width="600" alt="Swetlana AI vibecoding book" src="https://github.com/user-attachments/assets/d8134c15-3293-4f3f-bed9-503a4b20b675" />
+
 https://www.amazon.com/Vibe-Coding-Build-Without-Thinking-ebook/dp/B0DWHKDHS9/
 
 
