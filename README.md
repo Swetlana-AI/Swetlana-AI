@@ -20,6 +20,11 @@ I do stuff with AI (mostly of creative/experimental nature). I'd describe myself
 ## I'm a big fan of NotebookLM & use it for my podcast:
 [<img src="https://github.com/user-attachments/assets/3aad518e-f5db-4fcf-96ff-5fd429196d51" width="600">](https://youtu.be/WtkGICucSBU)
 
+## I wrote a book about vibecoding:
+<img width="600" alt="Swetlana AI vibecoding book" src="https://github.com/user-attachments/assets/d8134c15-3293-4f3f-bed9-503a4b20b675" />
+https://www.amazon.com/Vibe-Coding-Build-Without-Thinking-ebook/dp/B0DWHKDHS9/
+
+
 ## I made a Walt Whitman EP (Whitman's poems as shoegaze music):
 [<img src="https://github.com/user-attachments/assets/4d3300a1-8635-4c23-99ea-5bd008db3f52" width="600">](https://youtu.be/G-9fRyaUNrc)
 
