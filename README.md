@@ -26,7 +26,7 @@ Easiest way to reach me is via X/Twitter: [@Swetlanaai](https://x.com/Swetlanaai
 - Music channel: [Swetlana AI Music](https://www.youtube.com/@Swetlana-AI-Music) - Published several albums and singles
 
 ## One of my experiments: AI research papers as 4chan greentext
-<img width="600" alt="Ai Research papers 4chan greentext swetlana ai" src="https://github.com/user-attachments/assets/d771ea19-77b3-48f6-9121-1bae2dc9b514" />
+<img width="600" alt="Ai Research papers 4chan greentext swetlana ai" src="https://github.com/user-attachments/assets/fa1b47da-b843-4356-988a-7f2ecdd75614" />
 
 ## I'm a big fan of NotebookLM & use it for my podcast:
 [<img src="https://github.com/user-attachments/assets/3aad518e-f5db-4fcf-96ff-5fd429196d51" width="600">](https://youtu.be/WtkGICucSBU)
