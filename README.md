@@ -10,13 +10,14 @@ I'm definitely not a developer in the classical sense. But I'm not exclusively a
 
 I'm open to collaboration proposals, interviews, and generally to people who do something (reach out!).
 
+Easiest way to reach me: [@Swetlanaai](https://x.com/Swetlanaai)
+
 # Where I'm Active:
 
 ## Youtube
 - Main channel: [@swetlanaAI](https://www.youtube.com/@swetlanaAI) - Features AI-created content including music covers and experimental videos
 - Podcast channel: [Swetlana AI Podcast](https://www.youtube.com/@SwetlanaAI-Podcast) - Hosts a podcast exploring AI's role in various fields
 - Music channel: [Swetlana AI Music](https://www.youtube.com/@Swetlana-AI-Music) - Published several albums and singles
-- Twitter/X: [@Swetlanaai](https://x.com/Swetlanaai) - Easiest way to reach me
 
 ## One of my experiments: AI research papers as 4chan greentext
 <img width="600" alt="Ai Research papers 4chan greentext swetlana ai" src="https://github.com/user-attachments/assets/d771ea19-77b3-48f6-9121-1bae2dc9b514" />
