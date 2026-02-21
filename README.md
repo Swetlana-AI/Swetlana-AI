@@ -1,3 +1,7 @@
+![AI Artist](https://img.shields.io/badge/AI-Artist-ff69b4)
+![Writer](https://img.shields.io/badge/Writer-Philosophy-blue)
+![Music](https://img.shields.io/badge/Deep-House-purple)
+
 # Hi, I'm Swetlana 👋
 
 I do stuff with AI (mostly of creative/experimental nature). I'd describe myself as:
