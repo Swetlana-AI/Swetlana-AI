@@ -1,6 +1,5 @@
-![AI Artist](https://img.shields.io/badge/AI-Artist-ff69b4)
-![Writer](https://img.shields.io/badge/Writer-Philosophy-blue)
-![Music](https://img.shields.io/badge/Deep-House-purple)
+![AI](https://img.shields.io/badge/AI-black?style=for-the-badge)
+![Art](https://img.shields.io/badge/Art-111111?style=for-the-badge)
 
 # Hi, I'm Swetlana 👋
 
