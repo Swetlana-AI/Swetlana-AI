@@ -1,15 +1,9 @@
-![AI](https://img.shields.io/badge/AI-black?style=for-the-badge)
-![Art](https://img.shields.io/badge/Art-111111?style=for-the-badge)
+![Omg](https://img.shields.io/badge/Omg-black?style=for-the-badge)
+![lol](https://img.shields.io/badge/lol-111111?style=for-the-badge)
 
 # Hi, I'm Swetlana 👋
 
-I do stuff with AI (mostly of creative/experimental nature). I'd describe myself as:
-
-- 1/3 humanities (philosophy, big picture, writing)
-- 1/3 art (videos, visuals, experiments)
-- 1/3 tech (tools, scripts, systems)
-
-I'm definitely not a developer in the classical sense. But I'm not exclusively an artist either. These days I'm doing a lot with .md files and Telegram bots.
+I do stuff with AI (mostly of creative/experimental nature). 
 
 I'm open to collaboration proposals, interviews, and generally to people who do something (reach out!).
 
