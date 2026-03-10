@@ -3,7 +3,7 @@
 
 # Hi, I'm Swetlana 👋
 
-I do stuff with AI (mostly of creative/experimental nature). 
+I do stuff with AI, Python, text, media. 
 
 I'm open to collaboration proposals, interviews, and generally to people who do something (reach out!).
 
