@@ -27,6 +27,10 @@ https://ai-research-greentext.lovable.app
 
 <img width="600" alt="Ai Research papers 4chan greentext swetlana ai" src="https://github.com/user-attachments/assets/fa1b47da-b843-4356-988a-7f2ecdd75614" />
 
+## mdfication
+The process of externalizing a person’s thinking, decision-making, and behavioral patterns into structured .md (Markdown) files, enabling the creation of an operational entity that can generate outputs and make decisions in alignment with that person.
+[<img src="https://swetlanaai.wordpress.com/wp-content/uploads/2026/03/mdfy-yourself-mdfication-swetlana-ai-2.png" width="600">]([https://youtu.be/WtkGICucSBU](https://swetlanaai.wordpress.com/2026/03/27/mdfication-how-to-md-fy-yourself/))
+
 ## I'm a big fan of NotebookLM & use it for my podcast:
 [<img src="https://github.com/user-attachments/assets/3aad518e-f5db-4fcf-96ff-5fd429196d51" width="600">](https://youtu.be/WtkGICucSBU)
 
