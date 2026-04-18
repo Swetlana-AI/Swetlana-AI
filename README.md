@@ -27,6 +27,8 @@ The process of externalizing a person’s thinking, decision-making, and behavio
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live_Site-brightgreen?style=for-the-badge&logo=github)](https://swetlana-ai.github.io/mdfication-tool)
 
+[![Video](https://img.shields.io/badge/Video-Watch_Now-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/a5HRXMacTwI)
+
 [<img src="https://swetlanaai.wordpress.com/wp-content/uploads/2026/03/mdfy-yourself-mdfication-swetlana-ai-2.png" width="600">]([https://youtu.be/WtkGICucSBU](https://swetlanaai.wordpress.com/2026/03/27/mdfication-how-to-md-fy-yourself/))
 
 ## One of my experiments: AI research papers as 4chan greentext
