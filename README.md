@@ -24,7 +24,7 @@ Easiest way to reach me is via X/Twitter: [@Swetlanaai](https://x.com/Swetlanaai
 
 ## mdfication
 The process of externalizing a person’s thinking, decision-making, and behavioral patterns into structured .md (Markdown) files, enabling the creation of an operational entity that can generate outputs and make decisions in alignment with that person.
-[**md-fy yourself**](https://swetlana-ai.github.io/mdfication-tool) — A custom-built experience created with Claude.
+[![Live Demo](https://img.shields.io/badge/Demo-Live_Site-brightgreen?style=for-the-badge&logo=github)](https://swetlana-ai.github.io/mdfication-tool)
 [<img src="https://swetlanaai.wordpress.com/wp-content/uploads/2026/03/mdfy-yourself-mdfication-swetlana-ai-2.png" width="600">]([https://youtu.be/WtkGICucSBU](https://swetlanaai.wordpress.com/2026/03/27/mdfication-how-to-md-fy-yourself/))
 
 ## One of my experiments: AI research papers as 4chan greentext
